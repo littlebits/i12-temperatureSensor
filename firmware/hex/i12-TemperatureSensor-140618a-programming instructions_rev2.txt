@@ -1,0 +1,9 @@
+Programming Instructions
+
+Step 1) Flash the micro controller with the accompanying .hex file.
+
+Step 2) Set the fuses on the micro controller. Use the following fuse settings:
+
+		EXTENDED:	0xFF
+		HIGH:		0xDC
+		LOW:		0xE2
